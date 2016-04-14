@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">prueba_mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="boton_cambio_tipo">Tipo vista</string>
+    <string name="texto_swich">Localizame</string>
+    <string name="texto_monumento">Ver 3D</string>
+    <string name="texto_longitud">Longitud:</string>
+    <string name="texto_latitud">Latitud:</string>
+    <string name="texto_mas_zoom">Zoom +</string>
+    <string name="texto_menos_zoom">Zoom -</string>
+    <string name="texto_boton_inclinacion_mas">Tilt +</string>
+    <string name="texto_inclinacion_menos">Tilt -</string>
+</resources>
